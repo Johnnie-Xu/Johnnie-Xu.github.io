@@ -1,0 +1,252 @@
+@font-face {
+    font-family: 'TechnoHideo';
+    src: url(TechnoHideo.ttf);
+}
+@font-face {
+    font-family: 'Flexure';
+    src: url(Flexure.ttf);
+}
+h1 {
+    font-family: 'TechnoHideo';
+    font-size: 86px;
+    text-align: center;
+    background-color: #690f2f;
+    border-radius: 48px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    
+} 
+/* I use the font "Flexure" since it is the font that the composer of Calamity Mod's OST, DM Dokuro, uses in his videos. This establishes another deeper connection between the interlinks of the mod and the website, showing that it is clearly correlated towards the source material. */
+body {
+    background-color: #822222;
+}
+/* These colour choices are taken directly from the mod's custom title screen on tModLoader, which is where you are able to play the mod. The colours are various shades of warm red, and many aspects of the mod correlate to things relating to disaster, and the fact that red directly correlates to danger, and the fact that the bosses and enemies in Calamity are much harder than normal Terraria, it foreshadows to the journey that the player would take. */
+p {
+    font-size: 23px;
+    background-color: #690f2f;
+    border: 40px;
+    border-radius:25px;
+    font-family: 'Flexure';
+}
+img {
+    width: 5%;
+}
+.prehardmode {
+    font-family: 'Flexure';
+    margin-left: 30%;
+    font-size: 24px;
+}
+.topbar {
+    font-family: 'Flexure';
+    font-size: 28px;
+    background-color:#2d0625;
+    border-radius: 40px;
+    margin:2%;
+    margin: left 100px;
+}
+.toptopbar {
+    font-family: 'Flexure';
+    font-size: 28px;
+    background-color:#2d0625;
+    border-radius: 40px;
+    margin:2%;
+}
+.toptoptopbar {
+    font-family: 'Flexure';
+    font-size: 28px;
+    background-color:#2d0625;
+    border-radius: 40px;
+    margin:2%;
+}
+.toptoptoptopbar {
+    font-family: 'Flexure';
+    font-size: 28px;
+    background-color:#2d0625;
+    border-radius: 40px;
+    margin:2%;
+}
+.toptoptoptoptopbar {
+    font-family: 'Flexure';
+    font-size: 28px;
+    background-color:#2d0625;
+    border-radius: 40px;
+    margin:2%;
+}
+.bladecrestoathsword {
+    width: 30%;
+    float: left;
+    border-radius: 20px;
+}
+/* I used the float code here to allow the text to wrap over the image, all the while positioning the image/gif to the left or the right. It allows for a smoother viewing experience as well as to make the background rely on the amount of text rather than the image dragging the background on with lots of empty space where the image is not present. */
+.hardmode {
+    font-family: 'Flexure';
+    font-size: 28px; 
+    margin-left:35%;
+}
+.theperforators {
+    float: right;
+    width: 7%
+}
+.thehivemind {
+    float: left;
+    width: 10%;
+}
+.slimegodpaladins {
+    float: right;
+    width: 15%;
+}
+.slimegod {
+    float: left;
+    width: 3%;
+}
+.disenchantedaerialite{
+    width: 10%;
+    float: left;
+    border-radius:10px;
+}
+.aerialite{
+    width: 10%;
+    border-radius:10px;
+}
+.staticrefiner{
+    float: right;
+}
+.cryogen {
+    float:right;
+    width:10%;
+}
+.rageandadrenaline {
+    float:left;
+    width:10%;
+}
+.difficulties {
+    float:right;
+}
+.astralinfection {
+    float: left;
+    width:25%;
+}
+.cryogendash{
+    float:right;
+    width: 30%;
+}
+.angeltreads{
+    float:left;
+    width: 10%;
+}
+.bloodorange{
+    float:right;
+    width:20%;
+}
+.postmoonlord{
+    font-family: 'Flexure';
+    margin-left: 35%;
+    font-size: 24px;
+}
+.arkoftheelements{
+    float:left;
+    width:10%;
+}
+.astrumaureus{
+    float:right;
+    width:10%;
+}
+.anahitaandtheleviathan{
+    float:left;
+    width:20%;
+}
+.plaguebringergoliath{
+    float:right;
+    width:15%;
+}
+.abyss{
+    float:left;
+    width:8%;
+}
+.exaltedoathblade{
+    float:right;
+    width:25%;
+}
+.astrumdeus{
+    float:left;
+    width:30%;
+}
+.profanedguardians{
+    float:right;
+    width:15%;
+}
+.providence{
+    float:left;
+    width:15%;
+}
+.terratomere{
+    float:right;
+    width:20%;
+}
+.affliction{
+    float:left;
+    width:15%;
+}
+.calamitasclone{
+    float:right;
+    width:10%;
+}
+/* Many of my images here follow the same pattern of adjusting the width to allow for viewing experience as well as using float for either left or right depending on where I want to place the image. Unfortunately, the float code does not work for the centre, so it either has to be placed on left or right, which leaves a lot of text in the middle, which may result in boredom. */
+.luminiteplanetoid{
+    float:right;
+    width:15%;
+    border-radius:10px;
+}
+h3 {
+    font-family: 'Flexure';
+    font-size: 32px;
+    background-color:#2d0625;
+    color:purple;
+    border-radius:20px;
+}
+.devourerofgods{
+    float: left;
+    width:20%;
+}
+.finaldevourerofgods{
+    float:right;
+    width:25%;
+}
+.excelsus{
+    float:left;
+    width:30%;
+}
+.murasama{
+    float:right;
+    width:30%;
+}
+h2{
+    font-family: 'Flexure';
+    font-size: 32px;
+    background-color:#2d0625;
+    color:orangered;
+    border-radius:20px;
+}
+.ataraxia{
+    float:left;
+    width:25%;
+}
+div{
+    font-family: 'Flexure';
+    font-size: 32px;
+    background-color:gray;
+    color:cyan;
+    border-radius:20px;
+}
+.exobladecrafting{
+    float:right;
+    width:25%;
+}
+.vernalpass{
+    float:right;
+    width:20%;
+}
+.cosmicanvil{
+    float:left;
+    width:10%;
+}
